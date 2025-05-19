@@ -1,0 +1,22 @@
+{
+  "name": "jojo-theme",
+  "displayName": "jojo-theme",
+  "description": "",
+  "version": "0.0.1",
+  "icon": "images/jojo_.png",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "jojo-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jojo-theme-color-theme.json"
+      }
+    ]
+  }
+}
