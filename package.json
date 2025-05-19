@@ -2,7 +2,7 @@
   "name": "python-jojo-theme",
   "displayName": "Python dark theme JOJO",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icon": "images/jojo_.png",
   "engines": {
     "vscode": "^1.99.0"
