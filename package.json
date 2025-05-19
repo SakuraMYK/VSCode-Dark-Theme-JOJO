@@ -18,5 +18,12 @@
         "path": "./themes/jojo-theme-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SakuraMYK/VSCode-Dark-Theme-JOJO.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SakuraMYK/VSCode-Dark-Theme-JOJO/issues"
   }
 }
